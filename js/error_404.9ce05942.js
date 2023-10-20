@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["error_404"],{"95af":function(r,n,t){r.exports=t.p+"img/404.8951f203.png"},fde5:function(r,n,t){"use strict";t.r(n);var e=function(){var r=this,n=r._self._c;return n("div",[n("div",{staticClass:"error-404"},[r._v("此页面不存在……")]),n("img",{attrs:{src:r.error_404_img}})])},a=[],i={name:"Error_404",data(){return{error_404_img:t("95af")}}},o=i,s=t("2877"),u=Object(s["a"])(o,e,a,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=error_404.9ce05942.js.map
