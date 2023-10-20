@@ -1,3 +1,3 @@
 # netDisk
 
-## address: https://shaw-git-cpu.github.io/netDisk/
+## front-page address: https://shaw-git-cpu.github.io/netDisk/
